@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitAheadBehindCache
   cacheType: 5
-  lastUpdatedAtString: 2023-10-26T05:18:11.600-04:00
+  lastUpdatedAtString: 2023-10-26T05:20:41.768-04:00
   initializedAtString: 2023-10-26T05:06:02.699-04:00
-  ahead: 2
+  ahead: 3
   behind: 0
