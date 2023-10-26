@@ -1,0 +1,396 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: 
+  m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitLogCache
+  cacheType: 3
+  lastUpdatedAtString: 2023-10-26T02:45:45.161-04:00
+  initializedAtString: 2023-10-26T02:37:45.909-04:00
+  log:
+  - commitID: f2e5073dad0c34c587a9c98082cd37ca16b0d2b1
+    mergeA: 
+    mergeB: 
+    authorName: GingeyGameDev
+    authorEmail: mattvaughngames@gmail.com
+    commitEmail: mattvaughngames@gmail.com
+    commitName: GingeyGameDev
+    summary: git fix
+    description: 
+    timeString: 2023-10-26T02:33:16.000-04:00
+    commitTimeString: 2023-10-26T02:33:16.000-04:00
+    changes:
+    - path: Packages\manifest.json
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 30998d886b17fc924559a559a44efc5797ad5e00
+    mergeA: 
+    mergeB: 
+    authorName: GingeyGameDev
+    authorEmail: mattvaughngames@gmail.com
+    commitEmail: mattvaughngames@gmail.com
+    commitName: GingeyGameDev
+    summary: extra git support
+    description: 
+    timeString: 2023-10-26T02:32:07.000-04:00
+    commitTimeString: 2023-10-26T02:32:07.000-04:00
+    changes:
+    - path: Packages\manifest.json
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 3fc1047aa838ed97cb4b696675c80707fcf770cc
+    mergeA: 
+    mergeB: 
+    authorName: GingeyGameDev
+    authorEmail: mattvaughngames@gmail.com
+    commitEmail: mattvaughngames@gmail.com
+    commitName: GingeyGameDev
+    summary: Full Commit
+    description: Backing this up from disk
+    timeString: 2023-10-26T01:55:45.000-04:00
+    commitTimeString: 2023-10-26T01:55:45.000-04:00
+    changes:
+    - path: .vsconfig
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\.vsconfig
+      projectPath: .vsconfig
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Decision Board Animator.controller
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Decision
+        Board Animator.controller
+      projectPath: Assets\Decision Board Animator.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Decision Board Animator.controller.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Decision
+        Board Animator.controller.meta
+      projectPath: Assets\Decision Board Animator.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Desicion Board.anim
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Desicion
+        Board.anim
+      projectPath: Assets\Desicion Board.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Desicion Board.anim.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Desicion
+        Board.anim.meta
+      projectPath: Assets\Desicion Board.anim.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\accept or deny prototype.unity
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scenes\accept
+        or deny prototype.unity
+      projectPath: Assets\Scenes\accept or deny prototype.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\accept or deny prototype.unity.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scenes\accept
+        or deny prototype.unity.meta
+      projectPath: Assets\Scenes\accept or deny prototype.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Book.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\Book.meta
+      projectPath: Assets\Scripts\Book.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Book\BookClose.cs
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\Book\BookClose.cs
+      projectPath: Assets\Scripts\Book\BookClose.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Book\BookClose.cs.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\Book\BookClose.cs.meta
+      projectPath: Assets\Scripts\Book\BookClose.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Book\BookOpen.cs
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\Book\BookOpen.cs
+      projectPath: Assets\Scripts\Book\BookOpen.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Book\BookOpen.cs.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\Book\BookOpen.cs.meta
+      projectPath: Assets\Scripts\Book\BookOpen.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Book\BookPages.cs
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\Book\BookPages.cs
+      projectPath: Assets\Scripts\Book\BookPages.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Book\BookPages.cs.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\Book\BookPages.cs.meta
+      projectPath: Assets\Scripts\Book\BookPages.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Book\Tab.cs
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\Book\Tab.cs
+      projectPath: Assets\Scripts\Book\Tab.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Book\Tab.cs.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\Book\Tab.cs.meta
+      projectPath: Assets\Scripts\Book\Tab.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DecisionBoard.cs
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\DecisionBoard.cs
+      projectPath: Assets\Scripts\DecisionBoard.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DecisionBoard.cs.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\DecisionBoard.cs.meta
+      projectPath: Assets\Scripts\DecisionBoard.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DragAndDrop.cs
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\DragAndDrop.cs
+      projectPath: Assets\Scripts\DragAndDrop.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\DragAndDrop.cs.meta
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\Scripts\DragAndDrop.cs.meta
+      projectPath: Assets\Scripts\DragAndDrop.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\Search.settings
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\UserSettings\Search.settings
+      projectPath: UserSettings\Search.settings
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: dfe05155f78469bcb0063c55dd4ac61a11589081
+    mergeA: 
+    mergeB: 
+    authorName: GingeyGameDev
+    authorEmail: mattvaughngames@gmail.com
+    commitEmail: mattvaughngames@gmail.com
+    commitName: GingeyGameDev
+    summary: Initial commit
+    description: 
+    timeString: 2023-10-26T01:54:41.000-04:00
+    commitTimeString: 2023-10-26T01:54:41.000-04:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: D:\unity\Unity Projects\accept or deny prototype\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
