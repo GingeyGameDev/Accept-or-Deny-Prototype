@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638339007807438502
-    m_Hash: 2388083055
+      ticks: 638339077805311287
+    m_Hash: 1102960540
   m_LockFileStatus:
     m_FilePath: D:/unity/Unity Projects/accept or deny prototype/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638339008013920514
-    m_Hash: 2668993278
+      ticks: 638339077805316304
+    m_Hash: 3888230566
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,895 @@ m_LocalPackages:
 m_ProjectPath: D:/unity/Unity Projects/accept or deny prototype/Packages
 m_EditorVersion: 2021.1.11f1 (4d8c25f7477e)
 m_ResolvedPackages:
+- packageId: com.spoiledcat.git@1.0.18
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.18
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.spoiledcat.git@1.0.18
+  assetPath: Packages/com.spoiledcat.git
+  name: com.spoiledcat.git
+  displayName: Git for Unity
+  author:
+    name: 
+    email: shana@spoiledcat.net
+    url: 
+  category: 
+  type: 
+  description: Git for Unity brings [Git](https://git-scm.com/) into [Unity](https://unity3d.com/),
+    integrating source control into your work with friendly and accessible tools
+    and workflows.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.9
+    - 1.0.11
+    - 1.0.12
+    - 1.0.18
+    compatible:
+    - 1.0.9
+    - 1.0.11
+    - 1.0.12
+    - 1.0.18
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: scoped:Spoiled Cat
+    name: Spoiled Cat
+    url: https://registry.spoiledcat.com
+    scopes:
+    - com.spoiledcat
+    isDefault: 0
+    capabilities: 0
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638271278247570000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+ssh://git@github.com/spoiledcat/git-for-unity.git
+    revision: 07a3c3384a59a979eb052b76ff9498675875cf40
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.2d.animation@6.0.3
+  testable: 0
+  isDirectDependency: 1
+  version: 6.0.3
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.2d.animation@6.0.3
+  assetPath: Packages/com.unity.2d.animation
+  name: com.unity.2d.animation
+  displayName: 2D Animation
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: 2D Animation provides all the necessary tooling and runtime components
+    for skeletal animation using Sprites.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.15-preview.1
+    - 1.0.15-preview.2
+    - 1.0.15-preview.3
+    - 1.0.15-preview.4
+    - 1.0.15-preview.5
+    - 1.0.16-preview
+    - 1.0.16-preview.1
+    - 1.0.16-preview.2
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0-preview.3
+    - 2.1.0-preview.1
+    - 2.1.0-preview.2
+    - 2.1.0-preview.4
+    - 2.1.0-preview.5
+    - 2.1.0-preview.7
+    - 2.2.0-preview.1
+    - 2.2.0-preview.4
+    - 2.2.0-preview.5
+    - 2.2.1-preview.1
+    - 2.2.1-preview.2
+    - 3.0.2
+    - 3.0.3
+    - 3.0.4
+    - 3.0.5
+    - 3.0.6
+    - 3.0.8
+    - 3.1.0
+    - 3.1.1
+    - 3.2.1
+    - 3.2.2
+    - 3.2.3
+    - 3.2.4
+    - 3.2.5
+    - 3.2.6
+    - 3.2.9
+    - 3.2.10
+    - 3.2.11
+    - 3.2.13
+    - 3.2.14
+    - 3.2.15
+    - 3.2.16
+    - 3.2.17
+    - 3.2.18
+    - 4.0.0
+    - 4.0.1
+    - 4.1.0
+    - 4.1.1
+    - 4.2.1
+    - 4.2.2
+    - 4.2.3
+    - 4.2.4
+    - 4.2.5
+    - 4.2.6
+    - 4.2.8
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    - 5.0.4
+    - 5.0.5
+    - 5.0.6
+    - 5.0.7
+    - 5.0.8
+    - 5.0.9
+    - 5.0.10
+    - 5.1.0
+    - 5.1.1
+    - 5.2.0
+    - 5.2.1
+    - 5.2.3
+    - 5.2.4
+    - 5.2.6
+    - 5.2.7
+    - 6.0.0-pre.1
+    - 6.0.0-pre.2
+    - 6.0.1
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.7
+    - 7.0.0-pre.2
+    - 7.0.0-pre.3
+    - 7.0.0
+    - 7.0.1
+    - 7.0.2
+    - 7.0.3
+    - 7.0.4
+    - 7.0.5
+    - 7.0.6
+    - 7.0.7
+    - 7.0.8
+    - 7.0.9
+    - 7.0.10
+    - 7.0.11
+    - 7.0.12
+    - 8.0.0-pre.3
+    - 8.0.0-pre.4
+    - 8.0.0
+    - 8.0.1
+    - 8.0.2
+    - 8.0.3
+    - 8.0.4
+    - 8.0.5
+    - 9.0.0-pre.1
+    - 9.0.0-pre.3
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+    - 9.0.3
+    - 9.0.4
+    - 10.0.0-pre.1
+    - 10.0.0-pre.2
+    - 10.0.0
+    - 10.0.1
+    - 10.0.2
+    - 10.0.3
+    compatible:
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.7
+    verified: 6.0.7
+  dependencies:
+  - name: com.unity.2d.common
+    version: 5.0.0
+  - name: com.unity.mathematics
+    version: 1.1.0
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.2d.common
+    version: 5.0.0
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.1
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  keywords:
+  - 2d
+  - animation
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 0
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637563730420000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 8752f08cdd2aa2a0153c9c70e2affdb28ccfe4bd
+    path: 
+  unityLifecycle:
+    version: 6.0.3
+    nextVersion: 
+- packageId: com.unity.2d.pixel-perfect@5.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 5.0.0
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.2d.pixel-perfect@5.0.0
+  assetPath: Packages/com.unity.2d.pixel-perfect
+  name: com.unity.2d.pixel-perfect
+  displayName: 2D Pixel Perfect
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: tool
+  description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera component
+    which ensures your pixel art remains crisp and clear at different resolutions,
+    and stable in motion.
+
+
+    It is a single component that makes all the calculations
+    needed to scale the viewport with resolution changes, removing the hassle from
+    the user. The user can adjust the definition of the pixel art rendered within
+    the camera viewport through the component settings, as well preview any changes
+    immediately in Game view by using the Run in Edit Mode feature.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview
+    - 1.0.1-preview
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.1.0
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 4.0.0
+    - 4.0.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    compatible:
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    verified: 5.0.3
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - pixel
+  - perfect
+  - 2D
+  - sprite
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637526400420000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 82ee1598c2f1270bc1081c1f908364e528335bd5
+    path: 
+  unityLifecycle:
+    version: 5.0.0
+    nextVersion: 
+- packageId: com.unity.2d.psdimporter@5.0.3
+  testable: 0
+  isDirectDependency: 1
+  version: 5.0.3
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.2d.psdimporter@5.0.3
+  assetPath: Packages/com.unity.2d.psdimporter
+  name: com.unity.2d.psdimporter
+  displayName: 2D PSD Importer
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop Big)
+    file format. The ScriptedImporter is currently targeted for users who wants to
+    create multi Sprite character animation using Unity 2D Animation Package.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.1
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.1.0-preview.1
+    - 1.1.0-preview.3
+    - 1.2.0-preview.1
+    - 1.2.0-preview.3
+    - 1.2.0-preview.4
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.7
+    - 2.1.0
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 3.0.0
+    - 3.1.1
+    - 3.1.3
+    - 3.1.4
+    - 3.1.5
+    - 3.1.6
+    - 3.1.7
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.1.3
+    - 4.2.0
+    - 4.3.0
+    - 4.3.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.1
+    - 5.0.3
+    - 5.0.4
+    - 5.0.6
+    - 6.0.0-pre.2
+    - 6.0.0-pre.3
+    - 6.0.0-pre.4
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.6
+    - 6.0.7
+    - 7.0.0-pre.3
+    - 7.0.0-pre.4
+    - 7.0.0
+    - 7.0.1
+    - 7.0.2
+    - 7.0.3
+    - 8.0.0-pre.1
+    - 8.0.0-pre.3
+    - 8.0.0
+    - 8.0.1
+    - 8.0.2
+    - 9.0.0-pre.1
+    - 9.0.0-pre.2
+    - 9.0.0
+    - 9.0.1
+    compatible:
+    - 5.0.3
+    - 5.0.4
+    - 5.0.6
+    verified: 5.0.6
+  dependencies:
+  - name: com.unity.2d.common
+    version: 5.0.0
+  - name: com.unity.2d.animation
+    version: 6.0.3
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.2d.common
+    version: 5.0.0
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.2d.animation
+    version: 6.0.3
+  - name: com.unity.mathematics
+    version: 1.2.1
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  keywords:
+  - 2d
+  - psdimporter
+  - assetimporter
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 0
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637563730770000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 8752f08cdd2aa2a0153c9c70e2affdb28ccfe4bd
+    path: 
+  unityLifecycle:
+    version: 5.0.3
+    nextVersion: 
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: 
+    name: 
+    url: 
+    scopes: []
+    isDefault: 0
+    capabilities: 0
+  hasRegistry: 0
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+- packageId: com.unity.2d.spriteshape@6.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 6.0.0
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.2d.spriteshape@6.0.0
+  assetPath: Packages/com.unity.2d.spriteshape
+  name: com.unity.2d.spriteshape
+  displayName: 2D SpriteShape
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: SpriteShape Runtime & Editor Package contains the tooling and the
+    runtime component that allows you to create very organic looking spline based
+    2D worlds. It comes with intuitive configurator and a highly performant renderer.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.10-preview.2
+    - 1.0.11-preview
+    - 1.0.12-preview
+    - 1.0.12-preview.1
+    - 1.0.14-preview.2
+    - 2.0.0-preview.4
+    - 2.0.0-preview.5
+    - 2.0.0-preview.7
+    - 2.0.0-preview.8
+    - 2.0.0-preview.9
+    - 2.1.0-preview.2
+    - 2.1.0-preview.6
+    - 2.1.0-preview.7
+    - 2.1.0-preview.10
+    - 2.1.0-preview.11
+    - 3.0.1
+    - 3.0.2
+    - 3.0.4
+    - 3.0.5
+    - 3.0.6
+    - 3.0.7
+    - 3.0.8
+    - 3.0.9
+    - 3.0.10
+    - 3.0.11
+    - 3.0.12
+    - 3.0.13
+    - 3.0.14
+    - 3.0.15
+    - 3.0.16
+    - 3.0.17
+    - 3.0.18
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 4.0.3
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.1.3
+    - 4.1.4
+    - 4.1.5
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.1.0
+    - 5.1.1
+    - 5.1.2
+    - 5.1.3
+    - 5.1.4
+    - 5.1.5
+    - 5.1.6
+    - 5.1.7
+    - 5.2.0
+    - 5.3.0
+    - 6.0.0-pre.1
+    - 6.0.0-pre.2
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    - 7.0.0-pre.2
+    - 7.0.0-pre.3
+    - 7.0.0
+    - 7.0.2
+    - 7.0.3
+    - 7.0.4
+    - 7.0.5
+    - 7.0.6
+    - 7.0.7
+    - 8.0.0-pre.4
+    - 8.0.0-pre.5
+    - 8.0.0
+    - 8.0.1
+    - 9.0.0-pre.1
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+    - 10.0.0-pre.1
+    - 10.0.0-pre.2
+    - 10.0.0
+    - 10.0.1
+    - 10.0.2
+    compatible:
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    verified: 6.0.2
+  dependencies:
+  - name: com.unity.mathematics
+    version: 1.1.0
+  - name: com.unity.2d.common
+    version: 5.0.0
+  - name: com.unity.2d.path
+    version: 5.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.mathematics
+    version: 1.2.1
+  - name: com.unity.2d.common
+    version: 5.0.0
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  - name: com.unity.2d.path
+    version: 5.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  keywords:
+  - 2d
+  - shape
+  - spriteshape
+  - smartsprite
+  - spline
+  - terrain2d
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 0
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637526400040000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 82ee1598c2f1270bc1081c1f908364e528335bd5
+    path: 
+  unityLifecycle:
+    version: 6.0.0
+    nextVersion: 
+- packageId: com.unity.2d.tilemap@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  assetPath: Packages/com.unity.2d.tilemap
+  name: com.unity.2d.tilemap
+  displayName: 2D Tilemap Editor
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: 2D Tilemap Editor is a package that contains editor functionalities
+    for editing Tilemaps.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - Tilemap
+  registry:
+    id: 
+    name: 
+    url: 
+    scopes: []
+    isDefault: 0
+    capabilities: 0
+  hasRegistry: 0
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+- packageId: com.unity.2d.tilemap.extras@2.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 2.0.0
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.2d.tilemap.extras@2.0.0
+  assetPath: Packages/com.unity.2d.tilemap.extras
+  name: com.unity.2d.tilemap.extras
+  displayName: 2D Tilemap Extras
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: '2D Tilemap Extras is a package that contains extra scripts for use
+    with 2D Tilemap features in Unity. These include custom Tiles and Brushes for
+    the Tilemap feature.
+
+
+    The following are included in the package:
+
+    Brushes:
+    GameObject Brush, Group Brush, Line Brush, Random Brush
+
+    Tiles: Animated
+    Tile, Rule Tile, Rule Override Tile
+
+    Other: Grid Information, Custom Rules
+    for Rule Tile'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.5.0-preview
+    - 1.6.0-preview.1
+    - 1.6.1-preview
+    - 1.6.2-preview
+    - 1.6.3-preview
+    - 1.6.4-preview
+    - 1.7.0-preview
+    - 1.8.0-preview
+    - 1.8.1-preview
+    - 1.8.2-preview
+    - 1.8.3-preview
+    - 1.8.4-preview
+    - 2.0.0-pre.1
+    - 2.0.0-pre.2
+    - 2.0.0
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.2.6
+    - 2.2.7
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 4.0.0-pre.1
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    compatible:
+    - 2.0.0
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.2.6
+    - 2.2.7
+    verified: 2.0.0
+  dependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
+    version: 1.0.0
+  keywords:
+  - 2d
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 0
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637526397710000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+https://github.com/Unity-Technologies/2d-extras.git
+    revision: dc1c26a83c330e23776675c91c2c0f22764de9c7
+    path: 
+  unityLifecycle:
+    version: 2.0.0
+    nextVersion: 
 - packageId: com.unity.collab-proxy@1.5.7
   testable: 0
   isDirectDependency: 1
@@ -968,6 +1857,117 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.5.5
     nextVersion: 
+- packageId: com.unity.toolchain.win-x86_64-linux-x86_64@2.0.6
+  testable: 0
+  isDirectDependency: 1
+  version: 2.0.6
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@2.0.6
+  assetPath: Packages/com.unity.toolchain.win-x86_64-linux-x86_64
+  name: com.unity.toolchain.win-x86_64-linux-x86_64
+  displayName: Toolchain Win Linux x64
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Cross-compilation toolchain to build player target Linux x86_64 on
+    host Windows x86_64
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.4-preview
+    - 0.1.5-preview
+    - 0.1.6-preview
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.13-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 0.1.16-preview
+    - 0.1.17-preview
+    - 0.1.18-preview
+    - 0.1.19-preview
+    - 0.1.20-preview
+    - 0.1.21-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    compatible:
+    - 0.1.4-preview
+    - 0.1.5-preview
+    - 0.1.6-preview
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.13-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 0.1.16-preview
+    - 0.1.17-preview
+    - 0.1.18-preview
+    - 0.1.19-preview
+    - 0.1.20-preview
+    - 0.1.21-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    verified: 
+  dependencies:
+  - name: com.unity.sysroot
+    version: 2.0.7
+  - name: com.unity.sysroot.linux-x86_64
+    version: 2.0.6
+  resolvedDependencies:
+  - name: com.unity.sysroot
+    version: 2.0.7
+  - name: com.unity.sysroot.linux-x86_64
+    version: 2.0.6
+  keywords:
+  - toolchain
+  - windows
+  - linux
+  - cross-compilation
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 0
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638258057940000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.toolchain.win-x86_64-linux-x86_64@2.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.sysroot.git
+    revision: bf00578d8ff96f17f95a226bb361b69fe2860cc1
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
   isDirectDependency: 1
@@ -1034,119 +2034,6 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.0.0
-    nextVersion: 
-- packageId: com.unity.visualscripting@1.6.1
-  testable: 0
-  isDirectDependency: 1
-  version: 1.6.1
-  source: 1
-  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.visualscripting@1.6.1
-  assetPath: Packages/com.unity.visualscripting
-  name: com.unity.visualscripting
-  displayName: Visual Scripting
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: tool
-  description: "Visual Scripting, previously known as BOLT, is an alternative workflow
-    to design behaviours. Instead of the classic method of writing a C# script, visual
-    scripting offers a way to design behaviours intuitively without code, by connecting
-    events, actions, and data together in a graph. \n\nBoth programmers and non-programmers
-    can use node-based graphs to design final logic or to quickly create prototypes.
-    This package also features an API that programmers can use for more advanced
-    tasks, or to create custom nodes that can be used by other team members."
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 1.5.0
-    - 1.5.1-pre.3
-    - 1.5.1-pre.5
-    - 1.5.1
-    - 1.5.2
-    - 1.6.0-pre.3
-    - 1.6.0
-    - 1.6.1
-    - 1.7.1
-    - 1.7.2
-    - 1.7.3
-    - 1.7.5
-    - 1.7.6
-    - 1.7.7
-    - 1.7.8
-    - 1.8.0-pre.1
-    - 1.8.0
-    - 1.9.0
-    - 1.9.1
-    compatible:
-    - 1.6.1
-    - 1.7.1
-    - 1.7.2
-    - 1.7.3
-    - 1.7.5
-    - 1.7.6
-    - 1.7.7
-    - 1.7.8
-    verified: 1.6.1
-  dependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.ai
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.particlesystem
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.ai
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.particlesystem
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hasRegistry: 1
-  hideInEditor: 1
-  entitlements:
-    isAllowed: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637547228050000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: d2dc8205ed231b4fc18289dddb14c0a92c76154f
-    path: 
-  unityLifecycle:
-    version: 1.6.1
     nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
@@ -2987,6 +3874,189 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
+- packageId: com.unity.sysroot@2.0.7
+  testable: 0
+  isDirectDependency: 0
+  version: 2.0.7
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.sysroot@2.0.7
+  assetPath: Packages/com.unity.sysroot
+  name: com.unity.sysroot
+  displayName: Sysroot Base
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: This is the base sysroot package required by all sysroot and toolchain
+    packages
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.12-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 0.1.16-preview
+    - 0.1.17-preview
+    - 0.1.18-preview
+    - 0.1.19-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    compatible:
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.12-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 0.1.16-preview
+    - 0.1.17-preview
+    - 0.1.18-preview
+    - 0.1.19-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  - linux
+  - sysroot
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 0
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638258057320000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.sysroot@2.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.sysroot.git
+    revision: bf00578d8ff96f17f95a226bb361b69fe2860cc1
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.sysroot.linux-x86_64@2.0.6
+  testable: 0
+  isDirectDependency: 0
+  version: 2.0.6
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.sysroot.linux-x86_64@2.0.6
+  assetPath: Packages/com.unity.sysroot.linux-x86_64
+  name: com.unity.sysroot.linux-x86_64
+  displayName: Sysroot Linux x64
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Sysroot used to build unity player for linux x86_64
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.6-preview
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.12-preview
+    - 0.1.13-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    compatible:
+    - 0.1.6-preview
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.12-preview
+    - 0.1.13-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    verified: 
+  dependencies:
+  - name: com.unity.sysroot
+    version: 2.0.7
+  resolvedDependencies:
+  - name: com.unity.sysroot
+    version: 2.0.7
+  keywords:
+  - unity
+  - linux
+  - sysroot
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 0
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638258057410000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.sysroot.linux-x86_64@2.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.sysroot.git
+    revision: bf00578d8ff96f17f95a226bb361b69fe2860cc1
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: com.unity.ext.nunit@1.0.6
   testable: 0
   isDirectDependency: 0
@@ -3134,4 +4204,269 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 2.0.0
+    nextVersion: 
+- packageId: com.unity.mathematics@1.2.1
+  testable: 0
+  isDirectDependency: 0
+  version: 1.2.1
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.mathematics@1.2.1
+  assetPath: Packages/com.unity.mathematics
+  name: com.unity.mathematics
+  displayName: Mathematics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: Unity's C# SIMD math library providing vector types and math functions
+    with a shader like syntax.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.12-preview.2
+    - 0.0.12-preview.5
+    - 0.0.12-preview.8
+    - 0.0.12-preview.10
+    - 0.0.12-preview.11
+    - 0.0.12-preview.13
+    - 0.0.12-preview.17
+    - 0.0.12-preview.19
+    - 0.0.12-preview.20
+    - 1.0.0-preview.1
+    - 1.0.1
+    - 1.1.0-preview.1
+    - 1.1.0
+    - 1.2.1
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.3.1
+    compatible:
+    - 1.2.1
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.3.1
+    verified: 1.2.6
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 0
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637324062630000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+https://github.com/Unity-Technologies/Unity.Mathematics.git
+    revision: 71412d94b7a0b0fdbb3195a5e6559bf6a761e91a
+    path: 
+  unityLifecycle:
+    version: 1.2.1
+    nextVersion: 
+- packageId: com.unity.2d.common@5.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 5.0.0
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.2d.common@5.0.0
+  assetPath: Packages/com.unity.2d.common
+  name: com.unity.2d.common
+  displayName: 2D Common
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: asset
+  description: 2D Common is a package that contains shared functionalities that are
+    used by most of the other 2D packages.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.9-preview.1
+    - 1.0.9-preview.2
+    - 1.0.10-preview
+    - 1.0.11-preview.1
+    - 1.1.0-preview.1
+    - 1.1.0-preview.2
+    - 1.2.0-preview.1
+    - 2.0.1
+    - 2.0.2
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 3.0.0
+    - 3.0.1
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 4.0.3
+    - 4.0.4
+    - 4.1.0
+    - 4.2.0
+    - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 6.0.0-pre.2
+    - 6.0.0-pre.3
+    - 6.0.0-pre.4
+    - 6.0.0
+    - 6.0.1
+    - 6.0.2
+    - 6.0.3
+    - 6.0.4
+    - 6.0.5
+    - 6.0.6
+    - 7.0.0-pre.3
+    - 7.0.0-pre.4
+    - 7.0.0
+    - 7.0.1
+    - 7.0.2
+    - 7.0.3
+    - 8.0.0-pre.1
+    - 8.0.0-pre.2
+    - 8.0.0
+    - 8.0.1
+    - 9.0.0-pre.1
+    - 9.0.0-pre.2
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+    compatible:
+    - 5.0.0
+    verified: 5.0.0
+  dependencies:
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.2d.sprite
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.uielementsnative
+    version: 1.0.0
+  keywords:
+  - 2d
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 0
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637526395060000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 82ee1598c2f1270bc1081c1f908364e528335bd5
+    path: 
+  unityLifecycle:
+    version: 5.0.0
+    nextVersion: 
+- packageId: com.unity.2d.path@5.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 5.0.0
+  source: 1
+  resolvedPath: D:\unity\Unity Projects\accept or deny prototype\Library\PackageCache\com.unity.2d.path@5.0.0
+  assetPath: Packages/com.unity.2d.path
+  name: com.unity.2d.path
+  displayName: 2D Path
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: "2D Path provides tooling to edit shapes (polygons and B\xE9zier splines)
+    in EditorWindows and the SceneView."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.1
+    - 1.0.0-preview.4
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    - 2.1.0
+    - 2.1.1
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    compatible:
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    verified: 5.0.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - path
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637526399200000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 82ee1598c2f1270bc1081c1f908364e528335bd5
+    path: 
+  unityLifecycle:
+    version: 5.0.0
     nextVersion: 

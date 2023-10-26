@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitUserCache
   cacheType: 8
-  lastUpdatedAtString: 2023-10-26T02:46:01.605-04:00
-  initializedAtString: 2023-10-26T02:45:45.394-04:00
+  lastUpdatedAtString: 2023-10-26T05:10:51.615-04:00
+  initializedAtString: 2023-10-26T05:10:51.615-04:00
   gitName: GingeyGameDev
   gitEmail: mattvaughngames@gmail.com
